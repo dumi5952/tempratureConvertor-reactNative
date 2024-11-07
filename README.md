@@ -17,8 +17,8 @@ A simple React Native application that automatically converts temperatures from 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/celsius-to-fahrenheit-converter.git
-   cd celsius-to-fahrenheit-converter
+   git clone https://github.com/dumi5952/tempratureConvertor-reactNative.git
+   cd tempratureConvertor-reactNative
    ```
 
 2. **Install dependencies:**
